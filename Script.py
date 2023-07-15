@@ -194,7 +194,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/movies_areaz> ​🇲​​🇦​​🇮​​🇳​ ​🇬​​🇷​​🇴​​🇺​​🇵​ </a>
+▫️<a href=https://t.me/movies_areaz> ​MAIN GROUP​ </a>
 ▫️<a href=https://t.me/rqsturmovie> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
