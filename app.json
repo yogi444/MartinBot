@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TeamHMT/Auto-search-tamil-bot",
-    "repository": "https://github.com/TeamHMT/Auto-search-tamil-bot",
+    "website": "https://github.com/yogi444/MartinBot",
+    "repository": "https://github.com/yogi444/MartinBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
