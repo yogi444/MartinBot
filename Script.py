@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='@Itz_me_444'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
+Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/Itz_me_444'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
 
 Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/martinbot12'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
