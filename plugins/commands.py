@@ -410,8 +410,6 @@ async def start(client, message):
                             ]
                         ]
                     )
-                )
-            )
             
             filetype = msg.media
             file = getattr(msg, filetype.value)
