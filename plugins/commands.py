@@ -399,17 +399,7 @@ async def start(client, message):
                      ]
                     ]
                     )
-                    if IS_STREAM
-                    else InlineKeyboardMarkup(
-                        [
-                            [
-                                InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=f'https://t.me/{SUPPORT_CHAT}'),
-                                InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                            ],[
-                                InlineKeyboardButton("Mᴏᴠɪᴇ Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ", url="t.me/rqsturmovie")
-                            ]
-                        ]
-                    )
+                   )
             
             filetype = msg.media
             file = getattr(msg, filetype.value)
