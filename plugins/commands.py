@@ -76,7 +76,7 @@ async def start(client, message):
                 InlineKeyboardButton(
                     "❆ Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
                 ,[
-                InlineKeyboardButton('🤔 Wʜʏ I'ᴍ Jᴏɪɴɪɴɢ', url='https://graph.org/W%CA%9C%CA%8F-I%E1%B4%8D-J%E1%B4%8F%C9%AA%C9%B4%C9%AA%C9%B4%C9%A2-08-21')
+                InlineKeyboardButton('🤔 Wʜʏ I'ᴍ Jᴏɪɴɪɴɢ', url='https://graph.org/Wʜʏ-Iᴍ-Jᴏɪɴɪɴɢ-08-21')
                 ]
             ]
         ]
